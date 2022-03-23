@@ -1,6 +1,6 @@
 (function($) {
     "use strict";
-
+// Hola dotos
     $(window).on('load', function() {
         $(".preloader").fadeOut("slow", function() {
             $(".preloader-left").addClass("slide-left");
