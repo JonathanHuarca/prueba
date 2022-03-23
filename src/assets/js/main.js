@@ -20,7 +20,7 @@
             autoplayTimeout: 4000,
             autoplayHoverPause: true,
         });
-
+// Hola cambios
         $('#liontextslider').owlCarousel({
             nav: false,
             items: 1,
